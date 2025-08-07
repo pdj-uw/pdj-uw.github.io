@@ -1,8 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.vacansee.android",
-    "sha256_cert_fingerprints": ["12:5A:DA:FF:90:B5:79:33:F0:29:B8:21:C2:4F:08:8E:7F:D3:A7:19:DE:FE:A2:5E:57:33:75:23:FD:3D:8B:B9"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vacansee.vacansee_app",
+      "sha256_cert_fingerprints": [
+        "12:5A:DA:FF:90:B5:79:33:F0:29:B8:21:C2:4F:08:8E:7F:D3:A7:19:DE:FE:A2:5E:57:33:75:23:FD:3D:8B:B9"
+      ]
+    }
   }
-}]
+]
